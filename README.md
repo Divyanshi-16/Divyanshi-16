@@ -11,7 +11,7 @@ Hi, I'm Divyanshi, <br>🔭 Computer Science & Engineering Undergrad @ (https://
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Divyanshi-16&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshi-16&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Inspire...
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
