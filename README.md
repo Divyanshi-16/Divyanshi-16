@@ -1,4 +1,5 @@
-Hi, I'm Divyanshi, <br>🔭 Computer Science & Engineering Undergrad @ (https://iitbhu.ac.in/) IIT BHU, Varanasi<br>🌱 Love Learning!!
+# Hi, I'm Divyanshi, 
+<br>🔭 Computer Science & Engineering Undergrad @ (https://iitbhu.ac.in/) IIT BHU, Varanasi<br>🌱 Love Learning!!
 
 
 ## 🌐 Socials:
